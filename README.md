@@ -1,2 +1,2 @@
-# toDoApp
-My Firebase school project
+# taskShare
+Aplication to manage task and chat with Firebase backend
