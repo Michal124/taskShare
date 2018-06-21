@@ -52,7 +52,6 @@
 		1E7BBEE81FF538F4009374FB /* Task.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
 		1E89AC681FF5519900472AD9 /* TaskCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskCell.swift; sourceTree = "<group>"; };
 		1E8D550D1FF7E06E000D2FB6 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = SOURCE_ROOT; };
-		1E8D550F1FF7E081000D2FB6 /* MockUP.sketch */ = {isa = PBXFileReference; lastKnownFileType = file; path = MockUP.sketch; sourceTree = "<group>"; };
 		1EADD7C71F9227BC00E20E59 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1EADD7C91F9227BC00E20E59 /* LoginVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
 		1EADD7D11F9227BC00E20E59 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -140,7 +139,6 @@
 				7AFF1135B40A23F769079BA4 /* Pods */,
 				107A81833114FDFE388F9E27 /* Frameworks */,
 				1E233BDA1FA09C8900948E4F /* toDoApp.app */,
-				1E8D550F1FF7E081000D2FB6 /* MockUP.sketch */,
 			);
 			sourceTree = "<group>";
 		};
