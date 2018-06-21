@@ -15,7 +15,7 @@ class PostVC: UIViewController {
     @IBOutlet weak var textView: UITextView!
     @IBOutlet weak var userImage: RoundSquareButton!
     @IBOutlet weak var userEmail: UILabel!
-    @IBOutlet weak var sendMessageOutlet: roundLoginButton!
+    @IBOutlet weak var sendMessageOutlet: UIButton!
     
     var avatar : String!
     
@@ -30,7 +30,9 @@ class PostVC: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         textView.delegate = self
+        sendMessageOutlet.bindToKeyboard()
     }
+
     
   
     
